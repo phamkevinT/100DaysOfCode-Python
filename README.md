@@ -6,7 +6,7 @@ This repository holds all the projects built in the course "100 Days of Code - T
 
 Updated as projects are completed.
 ```bash
-1. 
+1. Band Name Generator - Sugguest a band name based on user input
 2. 
 3. 
 4.
