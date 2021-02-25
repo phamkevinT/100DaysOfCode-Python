@@ -9,7 +9,7 @@ Projects increase with difficulty and complexity over the course.
 
 ```bash
 1. Band Name Generator - Suggest a band name based on user input
-2. Tip Calculator - Calculates tip based on bill, tip percentage, and amount of people
+2. Tip Calculator - Calculates bill per person based on bill, tip percentage, and amount of people to split bill between
 3. 
 4.
 5.
