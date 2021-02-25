@@ -1,12 +1,14 @@
 # 100DaysOfCode-Python
 
-This repository holds all the projects built in the course "100 Days of Code - The Complete Python Pro Bootcamp for 2021" taught by Dr. Angela Yu
+This repository holds all the projects built in the course "100 Days of Code - The Complete Python Pro Bootcamp for 2021" taught by Dr. Angela Yu. 
 
 ## Projects
 
-Updated as projects are completed.
+List is updated as projects are completed.
+Projects increase with difficulty and complexity over the course.
+
 ```bash
-1. 
+1. Band Name Generator - Suggest a band name based on user input
 2. 
 3. 
 4.
