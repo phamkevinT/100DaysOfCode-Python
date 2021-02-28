@@ -11,7 +11,7 @@ Projects increase with difficulty and complexity over the course.
 1. [Beginner] Band Name Generator - Suggest a band name based on user input
 2. [Beginner] Tip Calculator - Calculates bill per person based on bill, tip percentage, and amount of people to split bill between
 3. [Beginner] Treasure Island - Braching decision making story 
-4.
+4. [Beginner] Rock Paper Scissors - Rock, Paper, Scissors against the Computer 
 5.
 6.
 7.
