@@ -13,7 +13,7 @@ Projects increase with difficulty and complexity over the course.
 3. [Beginner] Treasure Island - Braching decision making story 
 4. [Beginner] Rock Paper Scissors - Rock, Paper, Scissors against the Computer
 5. [Beginner] Password Generator - Generates password based on how many letters, symbols, and numbers the user specfies
-6.
+6. [Beginner[ Maze Esacpe - Instructions for a robot to escape a maze
 7.
 8.
 9.
