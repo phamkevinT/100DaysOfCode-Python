@@ -15,9 +15,9 @@ Projects increase with difficulty and complexity over the course.
 5. [Beginner] Password Generator - Generates password based on how many letters, symbols, and numbers the user specfies
 6. [Beginner] Maze Esacpe - Instructions for a robot to escape a maze
 7. [Begineer] Hangman -  Implementation of the classic Hangman game
-8.
-9.
-10.
+8. [Begineer] Caesar Cipher -  Encode and decode messages using the classic Caesar Cipher method
+9. [Begineer] Secret Auction -  An bidding game where the highest unknown bidder wins
+10. 
 11.
 12.
 13.
