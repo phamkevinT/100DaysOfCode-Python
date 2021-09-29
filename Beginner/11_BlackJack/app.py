@@ -100,6 +100,7 @@ def play_game():
     print()
 
 
+# Start the game
 while input("Do you want to play a game of Blackjack? Type 'y' or 'n' ") == "y":
     play_game()
 
