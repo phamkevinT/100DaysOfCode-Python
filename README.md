@@ -22,8 +22,8 @@ Projects increase with difficulty and complexity over the course.
 12. [Beginner] 
 13. [Beginner] 
 14. [Beginner] 
-15. [Intermediate] - Coffee Machine 
-16. [Intermediate]
+15. [Intermediate] - Coffee Machine - A mock coffee machine that processes payment and manages resources before dispensing coffee
+16. [Intermediate] - Coffee Machine (OOP Version) - 
 17. [Intermediate]
 18. [Intermediate]
 19. [Intermediate]
