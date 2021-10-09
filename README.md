@@ -19,15 +19,15 @@ Projects increase with difficulty and complexity over the course.
 9. [Beginner] Secret Auction -  An bidding game where the highest unknown bidder wins
 10. [Beginner] Calculator -  Implementation of a basic calculator
 11. [Beginner] Blackjack -  Blackjack versus Computer
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
+12. [Beginner] 
+13. [Beginner] 
+14. [Beginner] 
+15. [Intermediate] - Coffee Machine 
+16. [Intermediate]
+17. [Intermediate]
+18. [Intermediate]
+19. [Intermediate]
+20. [Intermediate]
 21.
 22.
 23.
