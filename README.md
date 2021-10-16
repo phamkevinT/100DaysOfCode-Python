@@ -25,22 +25,22 @@ Projects increase with difficulty and complexity over the course.
 15. [Intermediate] - Coffee Machine - A mock coffee machine that processes payment and manages resources before dispensing coffee
 16. [Intermediate] - Coffee Machine (OOP Version) - Implementation of Coffee Machine using Object Oriented Programming 
 17. [Intermediate] - Quiz Game - True/False Game 
-18. [Intermediate]
-19. [Intermediate]
+18. [Intermediate] - Hirst Spot Painting - Imitate the Hirst Spot Painting using Turtle Module
+19. [Intermediate] - Turtle Race - Bet on a colored turtle and see which turtle wins
 20. [Intermediate]
-21.
-22.
-23.
-24.
-25.
-26.
-27.
-28.
-29.
-30.
-31.
-32.
-33.
+21. [Intermediate]
+22. [Intermediate]
+23. [Intermediate]
+24. [Intermediate]
+25. [Intermediate]
+26. [Intermediate]
+27. [Intermediate]
+28. [Intermediate]
+29. [Intermediate]
+30. [Intermediate]
+31. [Intermediate]
+32. [Intermediate]
+33. [Intermediate]
 34.
 35.
 36.
