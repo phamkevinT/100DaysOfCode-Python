@@ -27,8 +27,8 @@ Projects increase with difficulty and complexity over the course.
 17. [Intermediate] - Quiz Game - True/False Game 
 18. [Intermediate] - Hirst Spot Painting - Imitate the Hirst Spot Painting using Turtle Module
 19. [Intermediate] - Turtle Race - Bet on a colored turtle and see which turtle wins
-20. [Intermediate]
-21. [Intermediate]
+20. [Intermediate] - Snake Game - Part 1 of the famous Snake game (focusing on animation and coordinates)
+21. [Intermediate] - Snake Game - Part 2 of the famous Snake game (focusing on inheritance and list slicing)
 22. [Intermediate]
 23. [Intermediate]
 24. [Intermediate]
