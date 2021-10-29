@@ -29,8 +29,8 @@ Projects increase with difficulty and complexity over the course.
 19. [Intermediate] - Turtle Race - Bet on a colored turtle and see which turtle wins
 20. [Intermediate] - Snake Game - Part 1 of the famous Snake game (focusing on animation and coordinates)
 21. [Intermediate] - Snake Game - Part 2 of the famous Snake game (focusing on inheritance and list slicing)
-22. [Intermediate]
-23. [Intermediate]
+22. [Intermediate] - Pong Game - 2-player ping pong game
+23. [Intermediate] - Turtle Crossing Game - Cross the street without getting hit by cars
 24. [Intermediate]
 25. [Intermediate]
 26. [Intermediate]
