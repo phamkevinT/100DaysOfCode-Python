@@ -31,7 +31,7 @@ Projects increase with difficulty and complexity over the course.
 21. [Intermediate] - Snake Game - Part 2 of the famous Snake game (focusing on inheritance and list slicing)
 22. [Intermediate] - Pong Game - 2-player ping pong game
 23. [Intermediate] - Turtle Crossing Game - Cross the street without getting hit by cars
-24. [Intermediate]
+24. [Intermediate] - NATO Alphabet - Output the NATO Alphabet version of a given word
 25. [Intermediate]
 26. [Intermediate]
 27. [Intermediate]
