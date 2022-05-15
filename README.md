@@ -34,7 +34,7 @@ Projects increase with difficulty and complexity over the course.
 24. [Intermediate]
 25. [Intermediate]
 26. [Intermediate] - NATO Alphabet - Output the NATO Alphabet version of a given word
-27. [Intermediate]
+27. [Intermediate] - Miles to Kilometer Converter - GUI that converts user inputted miles to kilometer 
 28. [Intermediate]
 29. [Intermediate]
 30. [Intermediate]
