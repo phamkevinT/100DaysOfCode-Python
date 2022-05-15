@@ -33,7 +33,7 @@ Projects increase with difficulty and complexity over the course.
 23. [Intermediate] - Turtle Crossing Game - Cross the street without getting hit by cars
 24. [Intermediate]
 25. [Intermediate]
-26. [Intermediate]
+26. [Intermediate] - NATO Alphabet - Output the NATO Alphabet version of a given word
 27. [Intermediate]
 28. [Intermediate]
 29. [Intermediate]
