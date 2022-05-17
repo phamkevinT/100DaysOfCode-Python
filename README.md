@@ -35,7 +35,7 @@ Projects increase with difficulty and complexity over the course.
 25. [Intermediate]
 26. [Intermediate] - NATO Alphabet - Output the NATO Alphabet version of a given word
 27. [Intermediate] - Miles to Kilometer Converter - GUI that converts user inputted miles to kilometer 
-28. [Intermediate]
+28. [Intermediate] - Pomodoro Productivity Coundown - Productivity counter based on Pomodoro Technique 
 29. [Intermediate]
 30. [Intermediate]
 31. [Intermediate]
