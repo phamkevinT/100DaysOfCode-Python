@@ -43,7 +43,7 @@ Projects increase with difficulty and complexity over the course.
 33. [Intermediate]
 34.
 35.
-36.
+36. [Intermediate] - Stock Trading News - Alert and provide news article debrief via SMS when closing stock price difference exceed a certain threshold.
 37.
 38.
 39.
