@@ -1,13 +1,17 @@
 import requests
+from twilio.rest import Client
 
 STOCK_NAME = "TSLA"
-COMPANY_NAME = "Tesla Inc"
+COMPANY_NAME = "Tesla"
 
 STOCK_ENDPOINT = "https://www.alphavantage.co/query"
 NEWS_ENDPOINT = "https://newsapi.org/v2/everything"
 
-STOCK_API_KEY = "L49Q4GZJMPRP0YCM"
-NEWS_API_KEY = "7d2b2c049e6840068a87b340037e2f4c"
+# TODO: Provide API KEYS, AUTH TOKEN AND SID
+STOCK_API_KEY = ""
+NEWS_API_KEY = ""
+TWILIO_SID = ""
+TWILIO_AUTH_TOKEN = ""
 
 ## STEP 1: Use https://www.alphavantage.co/documentation/#daily
 # When stock price increase/decreases by 5% between yesterday and the day before yesterday then print("Get News").
@@ -60,21 +64,18 @@ if difference_percentage > 1:
 three_articles = articles[:3]
 print(three_articles)
 
-## STEP 3: Use twilio.com/docs/sms/quickstart/python
-# to send a separate message with each article's title and description to your phone number.
+## STEP 3: Use twilio.com/docs/sms/quickstart/python to send a separate message with each article's title and description to your phone number.
 
-# TODO 8. - Create a new list of the first 3 article's headline and description using list comprehension.
+# Create a new list of the first 3 article's headline and description using list comprehension.
+formatted_articles = [f"Headline: {article['title']}. \nBrief: {article['description']}" for article in three_articles]
+print(formatted_articles)
 
-# TODO 9. - Send each article as a separate message via Twilio.
-
-
-# Optional TODO: Format the message like this:
-"""
-TSLA: 🔺2%
-Headline: Were Hedge Funds Right About Piling Into Tesla Inc. (TSLA)?. 
-Brief: We at Insider Monkey have gone over 821 13F filings that hedge funds and prominent investors are required to file by the SEC The 13F filings show the funds' and investors' portfolio positions as of March 31st, near the height of the coronavirus market crash.
-or
-"TSLA: 🔻5%
-Headline: Were Hedge Funds Right About Piling Into Tesla Inc. (TSLA)?. 
-Brief: We at Insider Monkey have gone over 821 13F filings that hedge funds and prominent investors are required to file by the SEC The 13F filings show the funds' and investors' portfolio positions as of March 31st, near the height of the coronavirus market crash.
-"""
+# Send each article as a separate message via Twilio.
+client = Client(TWILIO_SID, TWILIO_AUTH_TOKEN)
+# TODO: Provide Twilio phone number and destination phone number
+for article in formatted_articles:
+    message = client.messages.create(
+        body=article,
+        from_="",
+        to=""
+    )
